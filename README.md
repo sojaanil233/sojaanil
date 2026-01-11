@@ -10,6 +10,7 @@ microservices, REST APIs, and CI/CD pipelines for production environments.
 
 ## What I Do
 - Build backend services using Python and .NET Core
+- Design and build backend APIs using **Python (Flask, Fast)**
 - Design REST APIs and microservices-based systems
 - Apply clean architecture and low-level design principles
 - Improve deployment reliability using Docker and CI/CD
