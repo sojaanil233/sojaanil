@@ -1,67 +1,67 @@
-#  Soja Anil
+# Soja Anil
 
-Senior Software Engineer | Backend Developer | Python & .NET Enthusiast
+Senior Software Engineer | Backend Systems | Python & .NET
 
-I enjoy building scalable backend systems, solving complex problems,
-and continuously learning new technologies that improve software quality
-and developer productivity.
-
----
-
-## About Me
-- Senior Software Engineer with experience in **Python and .NET backend systems**
-- Strong background in **microservices, REST APIs, and system architecture**
-- Experienced with **Docker and CI/CD pipelines**
-- Enjoy collaborating with cross-functional teams
-- Passionate about clean code, documentation, and knowledge sharing
+I build scalable, maintainable backend systems with a strong focus on
+clean architecture, performance, and long-term reliability.  
+Experienced in designing microservices, REST APIs, and CI/CD pipelines
+for production environments.
 
 ---
 
-## Technical Skills
+## Professional Summary
+- 4+ years of experience in backend development
+- Strong expertise in **Python and .NET Core**
+- Designed and delivered **microservices-based systems**
+- Hands-on experience with **Docker, CI/CD, and cloud-ready architectures**
+- Proven ability to collaborate across teams and drive technical decisions
 
-**Languages**
-- Python
-- C#
-- SQL
+---
 
-**Backend & Frameworks**
-- .NET Core
-- ASP.NET MVC
-- RESTful APIs
+## Core Technical Skills
+
+**Backend Development**
+- Python, C#, SQL
+- .NET Core, ASP.NET MVC
+- RESTful API Design
 - Microservices Architecture
 
-**Tools & Platforms**
-- Docker
-- Git & GitHub
-- CI/CD Pipelines
-- Cursor IDE, GitHub Copilot
-
-**Practices**
+**System Design & Practices**
 - Clean Architecture
 - Low-Level Design (LLD)
-- Agile Methodologies
+- API Specifications & Documentation
+- Agile Development
+
+**DevOps & Tooling**
+- Docker
+- CI/CD Pipelines
+- Git & GitHub
+- GitHub Copilot, Cursor IDE
 
 ---
 
-## Featured Projects
-*(More projects coming soon)*
+## Selected Work & Projects
 
-- 🔗 **Portfolio Website**  
-  Personal portfolio hosted using GitHub Pages  
-  https://soja-anil.github.io/portfolio
+### Backend Services Platform
+- Designed and implemented backend services using **Python and .NET Core**
+- Applied microservices architecture with REST APIs
+- Containerized services using Docker
+- Integrated CI/CD pipelines for reliable deployments
 
-- 🔗 **Backend Services (Python / .NET)**  
-  Scalable backend services with REST APIs, Docker, and CI/CD practices
+### Automation & AI-Enabled Tooling
+- Integrated ChatGPT-based validation workflows
+- Leveraged GitHub Copilot and Cursor IDE to improve development efficiency
+- Reduced development time through automation and tooling improvements
 
 ---
 
-## Achievements
-- **Kudos Excellence Award** – Advanced Python/ML skills & problem-solving
+## Achievements & Recognition
+- **Kudos Excellence Award** – Advanced Python/ML skills and problem-solving
 - **Bravo Award** – Key contributor beyond formal responsibilities
 - **Hi5 Award** – Exceptional dedication during critical initiatives
 
 ---
 
-## Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/soja-anil
-- 📧 Email: sojaanil233@gmail.com
+## Contact
+- LinkedIn: https://www.linkedin.com/in/soja-anil
+- Email: sojaanil233@gmail.com
